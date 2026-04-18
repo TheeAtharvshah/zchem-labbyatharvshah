@@ -1,0 +1,27 @@
+{
+  "overview": "ZCHEM LAB is a premium futuristic chemistry learning platform featuring an interactive 118-element periodic table, 4 chemistry calculation tools with animations, a virtual litmus/indicator test lab, an NCERT-aligned burner lab with animated experiments, and a worksheet generator. All data is embedded for offline use.",
+  "features": [
+    "118-element interactive periodic table with Bohr model animations",
+    "Equation balancer with Taraju weighing scale visualization",
+    "Molar mass calculator with element breakdown",
+    "pH calculator with animated color bar",
+    "Unit converter with lab-style display",
+    "Virtual litmus & indicator test lab with beaker animations",
+    "NCERT virtual burner lab with 5 animated experiments",
+    "Worksheet generator with PDF export",
+    "Favorites & recently viewed elements (localStorage)",
+    "Futuristic dark UI with neon accents and glassmorphism"
+  ],
+  "category": "education",
+  "tags": [
+    "chemistry",
+    "education",
+    "periodic-table",
+    "ncert",
+    "science",
+    "interactive",
+    "virtual-lab",
+    "simulation"
+  ],
+  "last_updated": "2026-04-18T09:15:45.001Z"
+}
